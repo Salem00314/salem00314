@@ -1,21 +1,55 @@
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
-<p><a href="https://www.x.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.youtube.com/@mokkapps"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
-<h2>Check My Nuxt Starter Kit</h2>
-  <a href="https://nuxtstarterkit.com" target="_blank" rel="noreferrer nofollow">
-      <img src="https://mokkapps.twic.pics/nuxtstarterkit.com/promo.png" alt="Nuxt Starter Kit" height="500" >
-    </a>
-<h2>Latest Blog Posts</h2>
-  <ul>
-  <li><a href=https://mokkapps.de/blog/implementing-esr-nuxt target="_blank" rel="noreferrer nofollow">Implementing Edge-Side Rendering (ESR) in Nuxt 3+ for Enhanced Performance</a></li><li><a href=https://mokkapps.de/blog/why-i-developed-my-own-nuxt-starter-kit target="_blank" rel="noreferrer nofollow">Why I Developed My Own Nuxt Starter Kit for SaaS Products</a></li><li><a href=https://mokkapps.de/blog/document-your-nuxt-endpoints-with-open-api-and-visualize-with-swagger-or-scalar target="_blank" rel="noreferrer nofollow">Document Your Nuxt Endpoints With OpenAPI and Visualize With Swagger or Scalar</a></li><li><a href=https://mokkapps.de/vue-tips/managing-page-load-states-in-nuxt-with-use-loading-indicator target="_blank" rel="noreferrer nofollow">Nuxt Tip: Managing Page Load States With useLoadingIndicator</a></li><li><a href=https://mokkapps.de/vue-tips/use-effect-scope-for-managing-and-cleaning-up-reactive-effects target="_blank" rel="noreferrer nofollow">Vue Tip: Use effectScope for Managing and Cleaning Up Reactive Effects</a></li>
-  </ul>
-<p><a href="https://mokkapps.de/blog">➡️ More blog posts</a></p>
-<h2>Latest Newsletter Issues</h2>
-  <ul>
-    <li><a href=https://weekly-vue.news/issues/v2/165 target="_blank" rel="noreferrer nofollow">Weekly Vue News #201 - Roadmap to Nuxt 4, Image Optimization in Vue with Unpic, and more</a></li><li><a href=https://weekly-vue.news/issues/v2/164 target="_blank" rel="noreferrer nofollow">Weekly Vue News #200 - 200th Issue Celebration</a></li><li><a href=https://weekly-vue.news/issues/v2/163 target="_blank" rel="noreferrer nofollow">Weekly Vue News #199 - Optimize Performance with useInfiniteScroll from VueUse</a></li><li><a href=https://weekly-vue.news/issues/v2/162 target="_blank" rel="noreferrer nofollow">Weekly Vue News #198 - Nuxt 4 Deep Dive, D3 Tips, and Smarter Coding with AI</a></li><li><a href=https://weekly-vue.news/issues/v2/161 target="_blank" rel="noreferrer nofollow">Weekly Vue News #197 - Nuxt Data Fetching Improvements</a></li>
-  </ul>
-<p><a href="https://weekly-vue.news/issues">➡️ More issues</a></p>
-<h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
-  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-    </a>
+## Hey 👋, I'm Salem Makki!
+
+<a href='https://www.facebook.com/share/1YudDmh8qi/'><img align='left' alt="facebook" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/facebook.svg" height='18px'/></a>
+
+<br/><br/>
+
+I’m a tech student passionate about building user-friendly applications. I specialize in *front-end web development, and I also create **desktop applications using Python, Java, and SQL Server*. I enjoy turning ideas into real, interactive systems.
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
+---
+
+### 🧐 More About Me
+
+- 🎓 &nbsp; I study Computer Science at the Higher Institute of Science and Technology, Sebha.
+- 💻 &nbsp; I develop desktop apps with *Java, **Python, and **SQL Server*.
+- 🌐 &nbsp; I build responsive websites using *HTML, **CSS, and **JavaScript*.
+- 📘 &nbsp; Currently learning *backend development* and improving my database design skills.
+- 🔧 &nbsp; Open to collaborations and project ideas.
+- 📄 &nbsp; Resume available upon request.
+
+---
+
+### 🛠 Languages and Tools
+
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img align="left" alt="SQL Server" height="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/sql/sql.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="left" alt="HTML" height="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="left" alt="CSS" height="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
+<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"></a>
+
+<br/><br/><br/>
+
+---
+
+### 📊 GitHub Stats
+
+![Salem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
+
+---
+
+### 🔨 Projects
+
+- 🧾 Personal Portfolio Website (HTML, CSS, JavaScript)
+- 💼 Desktop Sales Management System (Java + SQL Server)
+- 🧠 Mini Quiz App (Python GUI)
+
+---
+
+### 📫 Contact Me
+
+- 📧 Email: [salemmakki53@gmail.com](mailto:salemmakki53@gmail.com)
+- 🔗 Facebook: [My Facebook](https://www.facebook.com/share/1YudDmh8qi/)
