@@ -1,7 +1,5 @@
 ## Hey 👋, I'm Salem Makki!
 
-<a href='https://www.facebook.com/share/1YudDmh8qi/'><img align='left' alt="facebook" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/facebook.svg" height='18px'/></a>
-
 <br/><br/>
 
 I’m a tech student passionate about building user-friendly applications. I specialize in *front-end web development, and I also create **desktop applications using Python, Java, and SQL Server*. I enjoy turning ideas into real, interactive systems.
